@@ -4,3 +4,5 @@ demo world
 
 hello again
 changes from online editor
+
+changes from smartgit
